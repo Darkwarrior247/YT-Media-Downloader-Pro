@@ -1,4 +1,4 @@
-# 🎵 YouTube MP3 Downloader
+# 🎵 YouTube Playlist MP3 Downloader
 
 Download YouTube videos or entire playlists as MP3 files — works directly in Google Colab with progress display and auto-zipping.
 
