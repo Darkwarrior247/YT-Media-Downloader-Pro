@@ -2,7 +2,7 @@
 
 Download YouTube videos or entire playlists as MP3 files — works directly in Google Colab with progress display and auto-zipping.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Darkwarrior247/YT-MP3-Converter/blob/main/YT-MP3-Converter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-Playlist-to-MP3-Converter.ipynb)
 
 ---
 
