@@ -1,49 +1,66 @@
-# 🎵 YouTube Playlist MP3 Downloader
+# 🎵 YT Playlist to MP3 Converter
 
-Download YouTube videos or entire playlists as MP3 files — works directly in Google Colab with progress display and auto-zipping.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-Playlist-to-MP3-Converter.ipynb)
+A Google Colab-powered tool to **download** and optionally **convert** YouTube videos or entire playlists to **MP3 or video format** — with just a few clicks. No setup required!
 
 ---
 
 ## 🚀 Features
 
-- 🔗 Download a single YouTube video or full playlist
-- 🎧 Converts audio to high-quality **MP3** (192 kbps)
-- ✅ Skips unavailable or deleted videos
-- 📦 Zips the MP3 files for easy download
-- 🧠 Built with `yt-dlp`, `ffmpeg`, and Python
-- ☁️ Runs entirely in **Google Colab** – no setup needed!
+- 🔗 Download from **single video** or **entire playlists**
+- 🎧 Option to **convert to MP3** or **download full video**
+- 📥 Automatically **zips** all files for easy download
+- 🔄 Skips unavailable videos in playlists
+- ✅ Interactive input prompts in Google Colab
 
 ---
 
-## 📋 How to Use
+## 🧪 Try it on Google Colab
 
-1. Click the **“Open in Colab”** button above ☝️
-2. Paste your YouTube video or playlist link when prompted
-3. Let the script download & convert everything
-4. Download the zipped MP3 files when finished
+▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-MP3-Converter.ipynb)
 
 ---
 
-## 🛠 Requirements
+## 📸 Preview
 
-No local setup required! The Colab notebook handles:
-
-- `yt-dlp`
-- `ffmpeg`
-- `tqdm`
+![screenshot](https://github.com/Darkwarrior247/YT-Playlist-to-MP3-Converter/raw/main/assets/demo.png)  
+*(You can add this image to your repo to show how it works)*
 
 ---
 
-## 📄 License
+## 🛠️ How It Works
 
-This project is licensed under the [MIT License](LICENSE).
+1. Open the notebook in [Google Colab](https://colab.research.google.com/)
+2. Follow the step-by-step prompts:
+   - Choose to **convert to MP3** or not
+   - Choose **single video** or **playlist**
+   - Paste the YouTube URL
+3. Wait for download & conversion
+4. Download the final **ZIP file** to your device
 
 ---
 
-## ❤️ Credits
+## 📦 Requirements
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — powerful YouTube download tool
-- [FFmpeg](https://ffmpeg.org/) — audio/video conversion
-- [Google Colab](https://colab.research.google.com/) — free cloud runtime
+Nothing! Everything is installed automatically in Colab:
+- `yt-dlp` (YouTube downloader)
+- `ffmpeg` (Audio conversion)
+- `tqdm` (Progress bars)
+
+---
+
+## 📁 Output
+
+- MP3 files saved in `/content/youtube_downloads/`
+- All files zipped to `/content/youtube_downloads.zip` for download
+
+---
+
+## 🧑‍💻 Author
+
+Made by [Darkwarrior247](https://github.com/Darkwarrior247)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE)
