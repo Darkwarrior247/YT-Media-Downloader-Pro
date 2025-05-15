@@ -16,7 +16,7 @@ A Google Colab-powered tool to **download** and optionally **convert** YouTube v
 
 ## 🧪 Try it on Google Colab
 
-▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-MP3-Converter.ipynb)
+▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-Playlist-to-MP3-Converter.ipynb)
 
 ---
 
