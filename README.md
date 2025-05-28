@@ -22,7 +22,7 @@ A Google Colab-powered tool to **download** and optionally **convert** YouTube v
 
 ## 📸 Preview
 
-![screenshot] (https://github.com/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/raw/main/assets/demo.png)
+![screenshot] https://github.com/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/raw/main/assets/demo.png
 
 ---
 
