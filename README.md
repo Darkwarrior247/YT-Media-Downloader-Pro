@@ -1,4 +1,4 @@
-# 🎵 YT Playlist to MP3 Converter
+# 🎵 YT Media Downloader Pro
 
 A Google Colab-powered tool to **download** and optionally **convert** YouTube videos or entire playlists to **MP3 or video format** — with just a few clicks. No setup required!
 
