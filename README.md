@@ -16,13 +16,13 @@ A Google Colab-powered tool to **download** and optionally **convert** YouTube v
 
 ## 🧪 Try it on Google Colab
 
-▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/YT-Playlist-to-MP3-Converter.ipynb)
+▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/YT-Media-Downloader-Pro/blob/main/YT-Media-Downloader-Pro.ipynb)
 
 ---
 
 ## 📸 Preview
 
-![screenshot](https://github.com/Darkwarrior247/YT-Playlist-to-MP3-Converter/blob/main/assets/demo.png)
+![screenshot](https://github.com/Darkwarrior247/YT-Media-Downloader-Pro/blob/main/assets/demo.png)
 
 ---
 
